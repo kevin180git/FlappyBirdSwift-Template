@@ -175,7 +175,7 @@
 						<key>value</key>
 						<array>
 							<string></string>
-							<string>FlappyBirdArtPack/pipe_bottom.png</string>
+							<string>FlappyBirdArtPack/snake.png</string>
 						</array>
 					</dict>
 					<dict>
@@ -348,7 +348,7 @@
 						<key>value</key>
 						<array>
 							<string></string>
-							<string>FlappyBirdArtPack/pipe_top.png</string>
+							<string>FlappyBirdArtPack/snake2.png</string>
 						</array>
 					</dict>
 					<dict>
@@ -484,8 +484,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>22</real>
-							<real>-1</real>
+							<real>22.653955459594727</real>
+							<real>0.0</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>

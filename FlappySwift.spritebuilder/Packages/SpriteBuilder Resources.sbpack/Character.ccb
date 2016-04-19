@@ -57,7 +57,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>FlappyBirdArtPack/fly1.png</string>
+								<string>FlappyBirdArtPack/zzzzz.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -75,7 +75,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>FlappyBirdArtPack/fly2.png</string>
+								<string>FlappyBirdArtPack/zzzzz.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -93,7 +93,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>FlappyBirdArtPack/fly1.png</string>
+								<string>FlappyBirdArtPack/zzzzz.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -111,7 +111,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>FlappyBirdArtPack/fly2.png</string>
+								<string>FlappyBirdArtPack/zzzzz.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -129,7 +129,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>FlappyBirdArtPack/fly1.png</string>
+								<string>FlappyBirdArtPack/zzzzz.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -147,7 +147,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>FlappyBirdArtPack/fly2.png</string>
+								<string>FlappyBirdArtPack/zzzzz.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -165,7 +165,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>FlappyBirdArtPack/fly1.png</string>
+								<string>FlappyBirdArtPack/zzzzz.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -284,7 +284,7 @@
 				<key>value</key>
 				<array>
 					<string></string>
-					<string>FlappyBirdArtPack/fly2.png</string>
+					<string>FlappyBirdArtPack/zzzzz.png</string>
 				</array>
 			</dict>
 			<dict>
@@ -379,11 +379,11 @@
 			<key>offset</key>
 			<real>0.0</real>
 			<key>position</key>
-			<real>0.10000000149011612</real>
+			<real>1</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
-			<real>282.84552001953125</real>
+			<real>229.25001525878906</real>
 			<key>sequenceId</key>
 			<integer>0</integer>
 			<key>soundChannel</key>

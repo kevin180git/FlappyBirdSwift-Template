@@ -110,7 +110,7 @@
 						<key>value</key>
 						<array>
 							<string></string>
-							<string>FlappyBirdArtPack/background.png</string>
+							<string>FlappyBirdArtPack/forest.png</string>
 						</array>
 					</dict>
 					<dict>
@@ -481,7 +481,7 @@
 								<key>value</key>
 								<array>
 									<string></string>
-									<string>FlappyBirdArtPack/ground.png</string>
+									<string>FlappyBirdArtPack/zzz.png</string>
 								</array>
 							</dict>
 							<dict>
@@ -654,7 +654,7 @@
 								<key>value</key>
 								<array>
 									<string></string>
-									<string>FlappyBirdArtPack/ground.png</string>
+									<string>FlappyBirdArtPack/zzz.png</string>
 								</array>
 							</dict>
 							<dict>
@@ -690,6 +690,8 @@
 								<array/>
 							</dict>
 						</array>
+						<key>selected</key>
+						<true/>
 					</dict>
 				</array>
 				<key>customClass</key>
@@ -1322,8 +1324,6 @@
 						</array>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
